@@ -11,7 +11,7 @@ game (
 
 game (
 	comment "F-Zero X - Expansion Kit (Japan)"
-	genre "Race, Driving"
+	genre "Racing"
 	rom ( crc D0424928 )
 )
 
