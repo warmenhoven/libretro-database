@@ -29,7 +29,7 @@ game (
 
 game (
 	comment "BC Racers (USA)"
-	genre "Racing / Driving"
+	genre "Racing"
 	rom ( crc 936C3D27 )
 )
 
@@ -1091,43 +1091,43 @@ game (
 
 game (
 	comment "Virtua Hamster (USA) (Proto)"
-	genre "Racing / Driving"
+	genre "Racing"
 	rom ( crc CD54AC37 )
 )
 
 game (
 	comment "Virtua Racing Deluxe (Japan)"
-	genre "Racing / Driving"
+	genre "Racing"
 	rom ( crc 0908E888 )
 )
 
 game (
 	comment "Virtua Racing Deluxe (USA)"
-	genre "Racing / Driving"
+	genre "Racing"
 	rom ( crc 7896B62E )
 )
 
 game (
 	comment "Virtua Racing Deluxe (Europe)"
-	genre "Racing / Driving"
+	genre "Racing"
 	rom ( crc 27F14B5F )
 )
 
 game (
 	comment "Virtua Racing Deluxe (USA) (Beta) (1994-08-22)"
-	genre "Racing / Driving"
+	genre "Racing"
 	rom ( crc 6EBB3EDA )
 )
 
 game (
 	comment "Virtua Racing Deluxe (USA) (Beta) (1994-08-29)"
-	genre "Racing / Driving"
+	genre "Racing"
 	rom ( crc 86A318DE )
 )
 
 game (
 	comment "Virtua Racing Deluxe (USA) (Beta) (1994-09-05)"
-	genre "Racing / Driving"
+	genre "Racing"
 	rom ( crc 99F38344 )
 )
 

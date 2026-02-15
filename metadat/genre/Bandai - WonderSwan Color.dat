@@ -155,7 +155,7 @@ game (
 
 game (
 	comment "Final Lap Special - GT & Formula Machine (Japan)"
-	genre "Racing / Driving"
+	genre "Racing"
 	rom ( crc B07E6A56 )
 )
 

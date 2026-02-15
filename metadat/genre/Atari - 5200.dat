@@ -371,7 +371,7 @@ game (
 
 game (
 	comment "Pole Position (USA)"
-	genre "Racing / Driving"
+	genre "Racing"
 	rom ( crc ABC2D1E4 )
 )
 
@@ -383,7 +383,7 @@ game (
 
 game (
 	comment "Pole Position (USA) (Proto)"
-	genre "Racing / Driving"
+	genre "Racing"
 	rom ( crc 6252143C )
 )
 

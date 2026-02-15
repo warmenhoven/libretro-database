@@ -701,7 +701,7 @@ game (
 
 game (
 	comment "Mad Rider (Japan)"
-	genre "Racing / Driving"
+	genre "Racing"
 	rom (
 		crc F87BD172
 	)
@@ -709,7 +709,7 @@ game (
 
 game (
 	comment "Mad Rider (Japan) (Alt 1)"
-	genre "Racing / Driving"
+	genre "Racing"
 	rom (
 		crc DFC2A720
 	)
@@ -885,7 +885,7 @@ game (
 
 game (
 	comment "Out Run (Japan)"
-	genre "Racing / Driving"
+	genre "Racing"
 	rom (
 		crc 0A9F8D6C
 	)
